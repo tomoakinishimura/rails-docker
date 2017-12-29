@@ -1,3 +1,24 @@
-# nginx + Rails (unicorn) + MySQL docker環境
+# README
 
-https://camo.qiitausercontent.com/384a2d01ce071869f63f8f9e03e8e16f91ad1236/68747470733a2f2f71696974612d696d6167652d73746f72652e73332e616d617a6f6e6177732e636f6d2f302f37363539362f32633364613434352d336137312d633130622d326637662d3235343835643934363334312e706e67
+This README would normally document whatever steps are necessary to get the
+application up and running.
+
+Things you may want to cover:
+
+* Ruby version
+
+* System dependencies
+
+* Configuration
+
+* Database creation
+
+* Database initialization
+
+* How to run the test suite
+
+* Services (job queues, cache servers, search engines, etc.)
+
+* Deployment instructions
+
+* ...
